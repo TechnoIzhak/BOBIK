@@ -3,7 +3,7 @@
 ![alt tag]( https://github.com/TechnoIzhak/BOBIK/blob/main/DOC/AutorFiles/pht1.jpg "Опису не буде")
 
 ![alt tag]( https://github.com/TechnoIzhak/BOBIK/blob/main/DOC/AutorFiles/pht2.jpg  "Опису не буде")
-1. Скопіюйте UID і відправте https://t.me/techno_izhak .для некомерційного використання автор безкоштовно відпрвать код для активації плати.
+1. Скопіюйте UID і відправте https://t.me/techno_izhak .для некомерційного використання автор безкоштовно надішле код для активації плати.
 2. вставте код і активуйте плату
 
 ![alt tag]( https://github.com/TechnoIzhak/BOBIK/blob/main/DOC/AutorFiles/pht3.png  "Опису не буде")
